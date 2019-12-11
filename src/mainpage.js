@@ -11,7 +11,7 @@ export default class main extends Component{
     return(
 <View>
    
-       <Text  >Number of times visted : {JSON.stringify(values)}</Text>  
+       <Text  >Number of times visted to this screen : {JSON.stringify(values)}</Text>  
 
            
 
